@@ -14,4 +14,4 @@ const randomMsg = () => {
 };
 
 // SENTENCIA QUE EXPORTA UN METODO
-module.export = { randomMsg };
+module.exports = { randomMsg };
