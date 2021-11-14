@@ -5,7 +5,8 @@ const messages = [
     "Yesica",
     "Diego",
     "Juan",
-    "Jose"
+    "Jose",
+    "Pedro"
 ];
 
 const randomMsg = () => {
